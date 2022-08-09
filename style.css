@@ -1,0 +1,47 @@
+body{
+    background-image: url("nice.jpg");
+      color:black;
+    background-repeat: no-repeat;
+  background-size:cover;
+  /*overflow-x: 10%;*/
+  margin: 0px;
+  position: sticky;
+  align-items: center;
+  text-align: center;
+  height: 780px;
+  width: 100%;
+    
+  /* background-attachment: fixed; */
+  background-position: center center;
+  
+  
+  }
+  .non{
+      visibility: hidden;
+  }
+  .main{
+    background-color:transparent;
+
+  }
+  .captions{
+      color: black;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  /* .box{
+      background-color:rgb(255, 255, 255);
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #000000;
+  } */
+  input, textarea {
+    background-color: transparent;
+    text-shadow: 0vh;
+  }
+  .heading{
+      font-size: 35px;
+ 
+  }
+  .heading h1{
+    background-color:transparent;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+          backdrop-filter: blur(8px);
+  }
